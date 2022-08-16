@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pilotlicheck.github.io/grideablog/</id>
+    <title>blog</title>
+    <updated>2022-08-16T02:50:56.832Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pilotlicheck.github.io/grideablog/"/>
+    <link rel="self" href="https://pilotlicheck.github.io/grideablog/atom.xml"/>
+    <subtitle>licheck</subtitle>
+    <logo>https://pilotlicheck.github.io/grideablog/images/avatar.png</logo>
+    <icon>https://pilotlicheck.github.io/grideablog/favicon.ico</icon>
+    <rights>All rights reserved 2022, blog</rights>
+</feed>
